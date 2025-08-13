@@ -26,6 +26,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 # Contacts / Контакты
 <p><a href="mailto:fedoseevmvf@yandex.ru"><img src="https://github.com/NoupSange/NoupSange/blob/main/images/mail.svg" height=30> Fedoseevmvf@yandex.ru</a></p>
