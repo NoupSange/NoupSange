@@ -29,7 +29,8 @@
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 # Contacts / Контакты
-<p><a href="mailto:fedoseevmvf@yandex.ru"><img src="https://github.com/NoupSange/NoupSange/blob/main/images/mail.svg" height=30> Fedoseevmvf@yandex.ru</a></p>
-<p><a href="https://t.me/noupsange"><img src="https://github.com/NoupSange/NoupSange/blob/main/images/paperplane-software-telegram.svg" height=40>Noupsange</a></p>
+<a href="mailto:fedoseevmvf@yandex.ru"> email: Fedoseevmvf@yandex.ru</a><br>
+<a href="https://t.me/noupsange">telegram: Noupsange</a><br>
+phone-number +7-916-865-22-59<br>
 
 
