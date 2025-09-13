@@ -8,6 +8,16 @@
 <p>Выбрал Backend разработку за возможность постоянного обучения и личностного роста. Знания в данной области имеют четкую структуру и понятную систему оценки эффективности.</p>
 <p>Живу в городе Пушкино (Московская область).</p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://www.codewars.com/users/NoupSange/badges/large"  alt="Codewars">
+
+
 <h1>Technologies / Технологии</h1>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
